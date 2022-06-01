@@ -182,7 +182,9 @@ Com o uso dos dados de teste (dados inéditos), é feita a simulação de perfor
 
 As curvas de ganho cumulativo e lift dos dados de teste são apresentadas abaixo.
 
-<img src="https://github.com/nortonvanz/Health-Insurance-Ranking/blob/pa004_norton_vanz/images/gain_lift_test_final.png?raw=true" alt="curva lift final" title="Curva Lift - Comparação dos modelos" align="center" height="700" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/6_cumulative_gain.PNG?raw=true" alt="curva lift final" title="Curva Lift - Comparação dos modelos" align="center" height="350" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/6_lift_curve.PNG?raw=true" alt="curva lift final" title="Curva Lift - Comparação dos modelos" align="center" height="350" class="center"/>
+
 
 Na sequência, as duas tabelas demonstram os valores de precision@k e recall@k do XGBoost.
 
