@@ -247,7 +247,7 @@ De acordo com o modelo, para alcançar 80% das pessoas interessadas, seria neces
 
 ### Planilha funcional em Google Sheets
 
-<img src="/images/sheet.gif" alt="cumulative gains curve and lift curve" title="Demontração da solução" align="center" height="600" class="center"/>
+<img src="/Images/sheet.gif" alt="cumulative gains curve and lift curve" title="Demontração da solução" align="center" height="600" class="center"/>
 
 Acesso a planilha: [Google Sheets - Health Insurance Ranking](https://docs.google.com/spreadsheets/d/1HYcYvTPwXo5-6xL4hJ4IIb58tKLhipE5xUYpFTS7DFg/edit#gid=0)
 
