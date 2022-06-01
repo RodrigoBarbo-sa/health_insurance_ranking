@@ -121,7 +121,7 @@ Insights são informações novas, ou que contrapõe crenças até então estabe
 
 #### H1 - O interesse é maior em clientes com idade maior.
 
-<img src="https://github.com/nortonvanz/Health-Insurance-Ranking/blob/pa004_norton_vanz/images/h1_age.png?raw=true" alt="h1_validacao" title="Interesse vs Idade" align="center" height="380" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/h1_picture.png?raw=true" alt="h1_validacao" title="Interesse vs Idade" align="center" height="380" class="center"/>
 
 Hipótese falsa. Pode ser observado que clientes entre 40-45 anos são os mais interessados em seguro veicular. Além disso o interesse cresce após os 27 anos e decai a partir dos 45
 
@@ -129,7 +129,7 @@ Hipótese falsa. Pode ser observado que clientes entre 40-45 anos são os mais i
 
 #### H2 - O interesse é maior em clientes que possuem veículos mais novos.
 
-<img src="https://github.com/nortonvanz/Health-Insurance-Ranking/blob/pa004_norton_vanz/images/h2_vehicle_age.png?raw=true" alt="h2_validacao" title="Interesse vs Idade do Veículo" align="center" height="380" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/h2_picture.png?raw=true" alt="h2_validacao" title="Interesse vs Idade do Veículo" align="center" height="380" class="center"/>
 
 Hipótese falsa. Quando mais velho o veículo, maior é o interesse em seguro veicular:
 - 4% dos clientes com veículos abaixo de 1 ano possuem interesse.
@@ -140,7 +140,7 @@ Hipótese falsa. Quando mais velho o veículo, maior é o interesse em seguro ve
 
 #### 3 O interesse é maior em clientes que possuíam seu veículo previamente segurado.
 
-<img src="https://github.com/nortonvanz/Health-Insurance-Ranking/blob/pa004_norton_vanz/images/h3_prev_insured.png?raw=true" alt="h3_validacao" title="Interesse vs Segudo Prévio" align="center" height="380" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/h3_picture.png?raw=true" alt="h3_validacao" title="Interesse vs Segudo Prévio" align="center" height="380" class="center"/>
 
 Hipótese falsa. 22% dos clientes que não possuíam veículo previamente segurado estão interessados em seguro de veículo, enquanto apenas 1% dos clientes que possuíam seguro tem interesse.
 
