@@ -169,21 +169,13 @@ Ex: Recall top 40% (ou 12196) k = 0,8 - Significa que 80% do total de clientes i
 O melhor modelo portanto foi o XGBoost Classifier, e por isso foi eleito para deploy em produção.
 Após a escolha do Modelo XGBoost, foram selecionados valores de hiperparâmetros aleatoriamente, e para cada conjunto de hiperparâmetros foi realizada a validação cruzada. Na tabela abaixo, pode-se verificar quais combinações de hiperparâmetros foram utilidas e qual desempenho de cada uma em termos  de precision@k e recall@k.
 
-═════════╤═══════════════════════╤═══════════════════════╤════════════════════════════════════════════════════════════╕
-│ model   │ precision@k           │ recall@k              │ hyperparameters                                            │
-╞═════════╪═══════════════════════╪═══════════════════════╪════════════════════════════════════════════════════════════╡
-│ #1      │ 0.329570 +/- 0.002956 │ 0.699128 +/- 0.006302 │ 'n_estimators': 100, 'max_depth': 2, 'scale_pos_weight': 2 │
-├─────────┼───────────────────────┼───────────────────────┼────────────────────────────────────────────────────────────┤
-│ #2      │ 0.332913 +/- 0.002856 │ 0.706219 +/- 0.006080 │ 'n_estimators': 120, 'max_depth': 3, 'scale_pos_weight': 1 │
-├─────────┼───────────────────────┼───────────────────────┼────────────────────────────────────────────────────────────┤
-│ #3      │ 0.329570 +/- 0.002956 │ 0.699128 +/- 0.006302 │ 'n_estimators': 100, 'max_depth': 2, 'scale_pos_weight': 2 │
-├─────────┼───────────────────────┼───────────────────────┼────────────────────────────────────────────────────────────┤
-│ #4      │ 0.332093 +/- 0.003029 │ 0.704480 +/- 0.006449 │ 'n_estimators': 100, 'max_depth': 3, 'scale_pos_weight': 1 │
-├─────────┼───────────────────────┼───────────────────────┼────────────────────────────────────────────────────────────┤
-│ #5      │ 0.333714 +/- 0.002653 │ 0.707919 +/- 0.005659 │ 'n_estimators': 110, 'max_depth': 4, 'scale_pos_weight': 1 │
-╘═════════╧═══════════════════════╧═══════════════════════╧════════════════════════════════════════════════════════════╛
-
-
+|Model |precision@k |recall@k | hyperparameters |
+|----------------|:------------------:|:-----------------------:|:--------------------------------------:|
+| #1 | 0.329570 +/- 0.002956 | 0.699128 +/- 0.006302 | 'n_estimators': 100, 'max_depth': 2, 'scale_pos_weight': 2 |
+| #2 | 0.332913 +/- 0.002856 | 0.706219 +/- 0.006080 | 'n_estimators': 120, 'max_depth': 3, 'scale_pos_weight': 1 |
+| #3 | 0.329570 +/- 0.002956 | 0.699128 +/- 0.006302 | 'n_estimators': 100, 'max_depth': 2, 'scale_pos_weight': 2 |
+| #4 | 0.332093 +/- 0.003029 | 0.704480 +/- 0.006449 | 'n_estimators': 100, 'max_depth': 3, 'scale_pos_weight': 1 |
+| #5 | 0.333714 +/- 0.002653 | 0.707919 +/- 0.005659 | 'n_estimators': 110, 'max_depth': 4, 'scale_pos_weight': 1 |
 
 # 6. Performance do modelo de Machine Learning
 Com o uso dos dados de teste (dados inéditos), é feita a simulação de performance do modelo em ambiente de produção.
@@ -273,4 +265,4 @@ Pelo fato da solução implementada via planilha poder ser utilizada para novos 
 
 ## 10 Referências
 * O Dataset foi obtido no [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction).
-* A imagem utilizada é de uso livre e foi obtida no [Pexels](https://www.pexels.com/pt-br/foto/onibus-branco-ao-lado-da-estrutura-de-concreto-2889806/).
+* A imagem utilizada é de uso livre e foi obtida no [Unsplash](https://unsplash.com/).
