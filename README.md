@@ -1,6 +1,6 @@
 # Health Insurance Cross-Sell Prediction
 
-<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/bloob/main/Images/coverfig.jpg?raw=true" width=70% height=70% title="Health-Insurance-Ranking" alt="project_cover_image"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/coverfig.jpg?raw=true" width=70% height=70% title="Health-Insurance-Ranking" alt="project_cover_image"/>
 
 Projeto de rankeamento de clientes interessados na adesão a um plano seguro veicular.
 
