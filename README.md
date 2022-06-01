@@ -218,7 +218,7 @@ Pela lista aleatória:
 Pela lista ordenada (modelo):
  - A equipe de vendas contata 70% dos interessados em seguro veicular: 6.539 clientes (ver Ganho: cruzamento linha laranja x amarela).
   ==> Receita estimada: 6.539 *  = US$ 13,078 milhões por ano.
-l
+
 RESULTADO: O modelo é aproximadamente 2,7 vezes melhor que a lista aleatória (ver Lift: cruzamento linha laranja x amarela).
 Portanto, a receita estimada é 2,7 vezes maior que a lista aleatória: uma diferença de  US$ 8,220 milhões.
 
@@ -247,9 +247,9 @@ De acordo com o modelo, para alcançar 80% das pessoas interessadas, seria neces
 
 ### Planilha funcional em Google Sheets
 
-<img src="/images/gif_800.gif" alt="cumulative gains curve and lift curve" title="Demontração da solução" align="center" height="600" class="center"/>
+<img src="/images/sheet.gif" alt="cumulative gains curve and lift curve" title="Demontração da solução" align="center" height="600" class="center"/>
 
-Acesso a planilha: [Google Sheets - Health Insurance Ranking](https://docs.google.com/spreadsheets/d/1GM-Ul_8zbroP7pNapIoZuXfV3NJNghgihs9lYQiDqPI/edit#gid=0)
+Acesso a planilha: [Google Sheets - Health Insurance Ranking](https://docs.google.com/spreadsheets/d/1HYcYvTPwXo5-6xL4hJ4IIb58tKLhipE5xUYpFTS7DFg/edit#gid=0)
 
 
 # 8. Conclusões
