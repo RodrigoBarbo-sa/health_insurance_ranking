@@ -208,33 +208,35 @@ As questões de negócios abaixo serão respondidas com base nas premissas citad
 
 ### Qual a porcentagem de clientes interessados em seguro veicular, o call center conseguirá contatar fazendo 20 mil ligações?
 
-<img src="https://github.com/nortonvanz/Health-Insurance-Ranking/blob/pa004_norton_vanz/images/20k_calls_results.png?raw=true" alt="20 k calls" title="Resultados com 20 mil ligações" align="center" height="700" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/7_cumulative_20000.PNG?raw=true" alt="20 k calls" title="Resultados com 20 mil ligações" align="center" height="350" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/7_lift_20000.PNG?raw=true" alt="20 k calls" title="Resultados com 20 mil ligações" align="center" height="350" class="center"/>
 
 Pela lista aleatória:
- - A equipe de vendas contata 26% dos interessados em seguro veicular: 2.429 clientes.
+ - A equipe de vendas contata 26% dos interessados em seguro veicular: 2.429 clientes (ver Ganho: cruzamento linha azul x amarela) .
   ==> Receita estimada: 2.429 * 2000 = US$ 4,858 milhões por ano.
 
 Pela lista ordenada (modelo):
- - A equipe de vendas contata 70% dos interessados em seguro veicular: 6.539 clientes.
+ - A equipe de vendas contata 70% dos interessados em seguro veicular: 6.539 clientes (ver Ganho: cruzamento linha laranja x amarela).
   ==> Receita estimada: 6.539 *  = US$ 13,078 milhões por ano.
-
-RESULTADO: O modelo é aproximadamente 2,7 vezes melhor que a lista aleatória (ver Lift: linha azul x verde).
+l
+RESULTADO: O modelo é aproximadamente 2,7 vezes melhor que a lista aleatória (ver Lift: cruzamento linha laranja x amarela).
 Portanto, a receita estimada é 2,7 vezes maior que a lista aleatória: uma diferença de  US$ 8,220 milhões.
 
 
 ### Se a capacidade do call center aumentar para 40 mil ligações, qual a porcentagem de clientes interessados em adquirir um seguro veicular o call center conseguirá contatar?
 
-<img src="https://github.com/nortonvanz/Health-Insurance-Ranking/blob/pa004_norton_vanz/images/40k_calls_results.png?raw=true" alt="40 k calls" title="Resultados com 40 mil ligações" align="center" height="700" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/7_cumulative_40000.PNG?raw=true" alt="40 k calls" title="Resultados com 40 mil ligações" align="center" height="350" class="center"/>
+<img src="https://github.com/RodrigoBarbo-sa/health_insurance_ranking/blob/main/Images/7_lift_40000.PNG?raw=true" alt="40 k calls" title="Resultados com 40 mil ligações" align="center" height="350" class="center"/>
 
 Pela lista aleatória:
-  - A equipe de vendas contata 52% dos interessados em seguro veicular: 4858 clientes (ver Ganho: cruzamento linha preta x verde).
+  - A equipe de vendas contata 52% dos interessados em seguro veicular: 4858 clientes (ver Ganho: cruzamento linha azul x amarela).
   ==> Receita estimada = 4858 * 2000 = US$ 9,716 milhões por ano.
 
 Pela lista ordenada (modelo):
-  - A equipe de vendas contata 99,3% dos interessados em seguro veicular: 9.249 clientes (ver Ganho: cruzamento linha azul x verde).
+  - A equipe de vendas contata 99,3% dos interessados em seguro veicular: 9.249 clientes (ver Ganho: cruzamento linha laranja x amarela).
   ==> Receita estimada: 9.249 * 2000 = US$ 18,498 milhões por ano.
 
-RESULTADO: O modelo é 1,9 vezes melhor que a lista aleatória (ver Lift: cruzamento linha azul x verde).
+RESULTADO: O modelo é 1,9 vezes melhor que a lista aleatória (ver Lift: cruzamento linha laranja x amarela).
 Portanto, a receita estimada é 1,9 vezes maior que a lista aleatória: uma diferença de US$ 8,782 milhões.
 
 
